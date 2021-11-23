@@ -1,0 +1,13 @@
+//Các thành phần trong MVC
+
+. Controller:
+Nhan request tu nguoi dung, xu ly yeu cau, tra ket qua ve view hien cho
+nguoi dung
+
+. Model:
+Tuong tac voi database, thuc hien tat ca cac cong viec lien quan den
+database nhu them, sua, xoa, truy van du lieu.
+
+. View:
+La thanh phan hien thi tat ca cac thong tin cho nguoi dung. Cho phep nguoi
+dung thao tac va input du lieu dau vao tren do
